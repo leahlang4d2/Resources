@@ -387,6 +387,7 @@
   * [Python Application](https://pythonprogramming.net)
   * [Learn Python for Data Science](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU)
   * [Simple Python Projects](https://codeclubprojects.org/en-GB/python)
+  * [Introduction to Python Udacity Free Course](https://www.udacity.com/course/introduction-to-python--ud1110)
 
 
 ## Ruby on Rails ##
@@ -423,6 +424,7 @@
 * [The Unix Programming Environment](http://product.half.ebay.com/The-UNIX-Programming-Environment-by-Brian-W-Kernighan-and-Rob-Pike-1983-Other/54385&tg=info)
 * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057)
 * [Unix Shell](https://www.dartmouth.edu/~rc/classes/ksh/print_pages.shtml)
+* [interactive Vim tutorial.] (http://www.openvim.com/)
 
 ## Web development ##
 [back to top](#readme)
